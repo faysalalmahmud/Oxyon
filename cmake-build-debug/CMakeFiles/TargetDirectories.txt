@@ -1,0 +1,3 @@
+/home/faysalalmahmud/Oxyon/cmake-build-debug/CMakeFiles/oxyon.dir
+/home/faysalalmahmud/Oxyon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/faysalalmahmud/Oxyon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
